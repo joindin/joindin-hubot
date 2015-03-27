@@ -1,0 +1,1 @@
+../my_modules/hubot-jira/index.coffee
