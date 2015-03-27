@@ -3,4 +3,4 @@
 	url = https://github.com/lornajane/hubot-github-repo-event-notifier.git
 [submodule "my_modules/hubot-jira"]
 	path = my_modules/hubot-jira
-	url = git@github.com:lornajane/hubot-jira.git
+	url = https://github.com/lornajane/hubot-jira.git
