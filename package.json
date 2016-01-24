@@ -9,7 +9,7 @@
     "hubot-diagnostics": "*",
     "hubot-help": "*",
     "hubot-heroku-keepalive": "*",
-    "hubot-irc": "*",
+    "hubot-irc": "lornajane/hubot-irc#eb85729dd9ae4cc3d1786de2bddf53b3d0d88216",
     "hubot-jenkins-notifier": "*",
     "hubot-redis-brain": "*",
     "hubot-scripts": "*",
